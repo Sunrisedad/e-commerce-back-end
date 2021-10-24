@@ -24,7 +24,7 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Installation
 
-
+Clone the repository from GitHub. The dependencies to install are Node.js, Express.js, Sequelize. To connect to database run mysql -u root -p and enter password. Then source the schema.sql. To seed the file, run npm run seed. Run npm start to initiate server.
 
 ## Usage 
 
@@ -54,7 +54,7 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Tests
 
-
+N/A
 
 ## Questions
 
